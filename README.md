@@ -1,1 +1,1 @@
-[DEMO](https://illia-kyselov.github.io/password-validator/).
+[DEMO](https://illia-kyselov.github.io/password-validator/)
